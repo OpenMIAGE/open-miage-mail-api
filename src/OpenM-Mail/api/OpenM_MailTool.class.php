@@ -1,8 +1,7 @@
 <?php
 
 /**
- * Description of OpenM_MailTool
- *
+ * 
  * @package OpenM 
  * @subpackage OpenM\OpenM-Mail\api 
  * @copyright (c) 2013, www.open-miage.org
